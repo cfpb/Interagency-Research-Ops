@@ -1,7 +1,7 @@
-# Interagency Research Operations
+# Table of contents
 Sharing Research Operations ideas across Federal government agencies :)
 
-<details open>
+<details close>
 <summary>Pre, during, and post research processes</summary>
 <br>
 * Conducting user research
