@@ -1,4 +1,3 @@
-# Table of contents
 Sharing Research Operations ideas across Federal government agencies :)
 
 - [Pre, during, and post research processes][1]
