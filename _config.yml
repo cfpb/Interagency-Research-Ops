@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: '/Interagency-Research-Ops/'
+    baseurl: 'Interagency-Research-Ops/'
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
