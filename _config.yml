@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl:
+    baseurl: cfpb.github.io/Interagency-Research-Ops/
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
