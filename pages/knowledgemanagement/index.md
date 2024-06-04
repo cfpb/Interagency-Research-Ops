@@ -8,8 +8,6 @@ has_toc: false
 
 # Knowledge management 
 _Explainer: Processes and platforms for collecting, synthesizing, and storing insights_
-* Synthesis templates 
-* Insight libraries 
 
 ## Synthesis templates 
 - [18F - making research actionable](https://guides.18f.gov/ux-guide/research/make-research-actionable/)
