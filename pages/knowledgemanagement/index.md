@@ -6,6 +6,9 @@ has_children: false
 has_toc: false
 ---
 
+##### Suggestions for Improvements
+[File a ticket here](https://github.com/cfpb/Interagency-Research-Ops/issues/new/choose)
+
 # Knowledge management 
 _Explainer: Processes and platforms for collecting, synthesizing, and storing insights_
 
@@ -15,5 +18,3 @@ _Explainer: Processes and platforms for collecting, synthesizing, and storing in
 ## Insight libraries 
 - [VA - GitHub Insight Library](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master)
 
-## Suggestions for Improvements
-[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
