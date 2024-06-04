@@ -5,6 +5,10 @@ nav_order: 7
 has_children: false
 has_toc: false
 ---
+
+##### Suggestions for Improvements
+[File a ticket here](https://github.com/cfpb/Interagency-Research-Ops/issues/new/choose)
+
 # Capacity building 
 _Explainer: Onboarding, education, and training around research_ 
 
@@ -23,5 +27,3 @@ _Explainer: Onboarding, education, and training around research_
 - https://digital.va.gov/web-governance/
 - https://analytics.usa.gov/veterans-affairs
 
-## Suggestions for Improvements
-[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
