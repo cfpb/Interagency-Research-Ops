@@ -6,7 +6,8 @@ nav_order: 1
 
 ## How to use the research operations site 
 
-Documentation lies at the core of a good research operations setup. This Interagency Research Operations site will not meet each agencies needs, rather be an example of how to start thinking through how to draft your internal research processes and operations to allow your research teams to scale, protect PII, understand what tools have been helpful across federal agencies, etc.  
+Documentation lies at the core of research operations setup. This site is meant to be a one-stop-shop for research operations guidance, templates, and tools across the federal family. It can also serve as an advocacy platform for agencies starting up their UX/CX research practices to benchmark what has worked for other federal departments. 
 
-## Suggestions for Improvements
-[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
+_Caveat_: This site will not meet each agencies needs, rather, be an example of how to start thinking through how to draft internal research processes to fit your agencies wants/needs, to then allow research teams to scale. This guide is evolving so if there are additional resources you'd like to contibute please submit an issue ticket [here](https://github.com/cfpb/Interagency-Research-Ops/issues/new/choose)
+
+
