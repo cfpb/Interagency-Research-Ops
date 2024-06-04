@@ -6,6 +6,9 @@ has_children: False
 has_toc: false
 ---
 
+##### Suggestions for Improvements
+[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
+
 # Pre, during, post research process 
 _Explainer: Cross linking to materials in guide and breaking the research process into phases_
 
@@ -32,9 +35,3 @@ _Explainer: Cross linking to materials in guide and breaking the research proces
 PII/PHI if any is recorded during research sessions, gets scrubbed out by researcher during beginning of synthesis and analysis, and before any notes or transcripts can be uploaded to a cloud storage system like Github or EnjoyHQ. Therefore, when a research findings report is created, it should not contain any PII/PHI. This is why we chose to use the reports as the foundation to craft stories using AI.
 
 We first created a template for stories using [Axios Smart Brevity](https://www.axioshq.com/smart-brevity?msclkid=d461c309940b1d037f48a5232027465c&utm_term=smart%20brevity&utm_campaign=BI+-+Smart+Brevity&utm_source=bing&utm_medium=ppc&hsa_acc=3148500346&hsa_cam=20538044856&hsa_grp=1225956468342897&hsa_ad=&hsa_src=o&hsa_tgt=kwd-76622539330093:loc-190&hsa_kw=smart%20brevity&hsa_mt=e&hsa_net=bing&hsa_ver=3&msclkid=d461c309940b1d037f48a5232027465c) as inspiration. After we wrote a few stories using this template, we were satisfied with the style and tone, but realized it still took considerably time to complete even with a template. About the same time we were testing this template, ChatGPT became available. Since our research reports are publicly available in Github, we thought we would test its capabilities. After some experimentation, we were able to narrow the steps to write a story based on a research report from 3 steps to one step. We are very satisfied with the output for telling a brief and easily digestible story that always has a link to the full research report if the reader wishes to "dive deeper." However, the success we have had may depend on the structure of the research report template that is used as the foundation to write the story. I will attach the report and story template so you can review.
-
-
-
-## Suggestions for Improvements
-[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
-
