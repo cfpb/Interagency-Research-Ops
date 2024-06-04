@@ -6,6 +6,9 @@ has_children: false
 has_toc: false
 ---
 
+##### Suggestions for Improvements
+[File a ticket here](https://github.com/cfpb/Interagency-Research-Ops/issues/new/choose)
+
 # Participant management 
 _Explainer: Recruitment, screening, scheduling, compensation and panel management_ 
 
@@ -21,5 +24,3 @@ _Explainer: Recruitment, screening, scheduling, compensation and panel managemen
 - [DOL - Justification for incentives](https://github.com/cfpb/Interagency-Research-Ops/files/15225232/Justification.for.incentives.v2.docx)
 - [BLS - Consent form from OMB package](https://github.com/cfpb/Interagency-Research-Ops/blob/main/assets/BLS%20Consent%20Form%20from%20OMB.docx)
 
-## Suggestions for Improvements
-[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
