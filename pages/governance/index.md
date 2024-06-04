@@ -6,6 +6,9 @@ has_children: false
 has_toc: false
 ---
 
+##### Suggestions for Improvements
+[File a ticket here](https://github.com/cfpb/Interagency-Research-Ops/issues/new/choose)
+
 # Governance 
 _Explainer: Process and guidelines for managing consent, privacy and storage of PII_
 * Policies and procedures for research 
@@ -20,5 +23,3 @@ _Explainer: Process and guidelines for managing consent, privacy and storage of 
 - [PRA exemptions](https://github.com/cfpb/Interagency-Research-Ops/blob/main/assets/PRA.Exemptions.pdf)
   
 
-## Suggestions for Improvements
-[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
