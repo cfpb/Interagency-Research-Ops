@@ -1,0 +1,11 @@
+title: Research Operations Site
+description: A place to share interagency research operations
+theme: just-the-docs
+
+url: https://just-the-docs.github.io
+# Maximum amount of previews per search result
+# Default: 3
+search.previews: 3
+
+aux_links:
+  ReOps Repository: https://github.com/cfpb/Interagency-Research-Ops/
