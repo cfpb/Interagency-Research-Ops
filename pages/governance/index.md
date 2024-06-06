@@ -19,7 +19,6 @@ _Explainer: Process and guidelines for managing consent, privacy and storage of 
 
 ## PRA playbook & guides 
 - [VA - PRA documentation](https://depo-platform-documentation.scrollhelp.site/research-design/paperwork-reduction-act-pra)
-- [OMB PRA Decision Tree](https://github.com/cfpb/Interagency-Research-Ops/blob/main/assets/OMB%20PRA%20Decision%20Tree.pdf)
 - [PRA exemptions](https://github.com/cfpb/Interagency-Research-Ops/blob/main/assets/PRA.Exemptions.pdf)
   
 
