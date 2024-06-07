@@ -11,12 +11,12 @@ assignees: aayatsali
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Did you create the file? 
-- ([ ]) yes 
-- ([ ]) no
+- [ ] yes 
+- [ ] no
 
 **Do you have consent to share the file(s)?
-- ([ ]) yes 
-- ([ ]) no
+- [ ] yes 
+- [ ] no
 
 **Describe the solution you'd like**
 A clear and concise description of what information you need.
