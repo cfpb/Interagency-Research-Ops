@@ -3,7 +3,7 @@ name: Content request
 about: Suggest new content for this guide
 title: ''
 labels: enhancement
-assignees: jdrubin, lizbrodd, aayatsali
+assignees: aayatsali, jdrubin, lizbrodd
 
 ---
 

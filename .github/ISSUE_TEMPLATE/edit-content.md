@@ -3,7 +3,7 @@ name: Edit content
 about: Create an issue to fix existing content
 title: ''
 labels: enhancement
-assignees: aayatsali
+assignees: jdrubin, lizbrodd, aayatsali
 
 ---
 
